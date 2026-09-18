@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv/
+.pytest_cache/
+outputs/*.png
+outputs/*.mp4
+outputs/*.log
+!outputs/.gitkeep
+models/*.pkl
+!models/.gitkeep
